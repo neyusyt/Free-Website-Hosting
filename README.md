@@ -11,6 +11,7 @@ Du kannst mir auch gerne direkt privat eine DM schreiben, (Mein Discord Tag: NEY
 ### Bedingungen
 
 -Erlaubbte Sprachen: HTML, CSS, JS und PHP
+
 -Erlaubte Größe der Website: 500MB
 
 
