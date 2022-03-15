@@ -3,7 +3,17 @@
 
 # Mehr Informationen
 
-Du kannst dich entweder gerne bei mir auf Discord mit einer DM melden oder dieses <a href="">Fomular</a> ausfühlen.
+Um das kostenlose hosten der Website zu beantragen komme auf mein <a href="https://discord.gg/4knfD5Cec7">Discord Server</a> um mir eine DM zu schreiben
+
+Du kannst mir auch gerne direkt privat eine DM schreiben, (Mein Discord Tag: NEYUS#4444)
+
+
+### Bedingungen
+
+-Erlaubbte Sprachen: HTML, CSS, JS und PHP
+-Erlaubte Größe der Website: 500MB
+
+
 
 ## Social Media:
 
