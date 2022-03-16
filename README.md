@@ -14,7 +14,9 @@ Du kannst mir auch gerne direkt privat eine DM schreiben, (Mein Discord Tag: NEY
 
 -Erlaubte Größe der Website: 500MB
 
+## Beantragen:
 
+Die Website könnt ihr unter dieser Url erreichen: <a href="neyus.be">Website</a>
 
 ## Social Media:
 
