@@ -16,7 +16,7 @@ Du kannst mir auch gerne direkt privat eine DM schreiben, (Mein Discord Tag: NEY
 
 ## Beantragen:
 
-Die Website könnt ihr unter dieser Url erreichen: <a href="neyus.be">Website</a>
+Die Website könnt ihr unter dieser Url erreichen: <a href="https://neyus.be/">Website</a>
 
 ## Social Media:
 
